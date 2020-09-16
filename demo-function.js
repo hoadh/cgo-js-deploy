@@ -47,12 +47,3 @@ function updateGameArea() {
   }
 }
 
-function makeSquares() {
-	makeSquare("red");
-  makeSquare("yellow");
-  makeSquare("blue");
-  makeSquare("green");
-}
-
-myGameArea.start();
-makeSquares();
